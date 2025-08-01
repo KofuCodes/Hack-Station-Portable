@@ -1,4 +1,4 @@
----
+<img width="1014" height="525" alt="image" src="https://github.com/user-attachments/assets/86144f1b-7a48-4f6a-8895-eeaa343b0625" />---
 title: Hack Station Portable
 author: Ethan Tran
 description: A portable console
@@ -25,4 +25,6 @@ time: 4 Hours<br/>
 
 -Planing the layout of the buttom part of the case and how everything would fit.<br/>
 -Finished the cad<br/>
--created and submited github repo for project
+-learned about retropi and how to use it<br/>
+-created and submited github repo for project<br/>
+<img width="1014" height="525" alt="image" src="https://github.com/user-attachments/assets/dbd5d1f4-d0bf-47f1-b05b-bccd5ef2f02c" />
