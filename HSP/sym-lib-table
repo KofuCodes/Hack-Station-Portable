@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "RP")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty/RASPBERRY_PI_4B_4GB.kicad_sym")(options "")(descr ""))
-)
