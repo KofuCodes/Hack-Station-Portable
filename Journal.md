@@ -1,4 +1,4 @@
-<img width="1014" height="525" alt="image" src="https://github.com/user-attachments/assets/86144f1b-7a48-4f6a-8895-eeaa343b0625" />---
+---
 title: Hack Station Portable
 author: Ethan Tran
 description: A portable console
