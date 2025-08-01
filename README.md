@@ -14,11 +14,9 @@ This project is a custom-built, portable game console designed for performance a
 https://retropie.org.uk
 
 # BOM
-Rasberry pi 4 - $75.99 CAD<br/>
-Battery - 59.99<br/>
-Screen - 76.38<br/>
-its like $5 over the limit please guys<br/>
-
-Fan - 6.90 (I can buy myself)<br/>
-Buttons - 7.99 (I can buy myself)<br/>
-Wires - 13.99 (I can buy myself)<br/>
+Rasberry pi - Already have one<br/>
+Battery - $59.99 CAD<br/>
+Screen - $85.87 CAD<br/>
+Fan - $6.90 CAD<br/>
+Buttons - $7.99 CAD<br/>
+Wires - $7.04 CAD<br/>
